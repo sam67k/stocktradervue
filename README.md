@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Project Demo
+[See Demo](https://vuejs-stock-trader-67.web.app/)
