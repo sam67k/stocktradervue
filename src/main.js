@@ -9,7 +9,7 @@ import store from './store/store';
 Vue.use(VueRouter);
 Vue.use(VueResource);
 
-Vue.http.options.root = 'https://vuejs-stock-trader-67.firebaseio.com/';
+Vue.http.options.root = 'https://stocktrader-67-default-rtdb.firebaseio.com/';
 
 Vue.filter('currency', (value) => {
 	return '$' + value.toLocaleString();
